@@ -1,10 +1,4 @@
 # Punto de Venta Dolores (punto_venta_dolores)
 
-Proyecto del "Manual paso a paso con TDD · Punto de Venta" · Desarrollo Móvil Integral · UTNG.
-
-1. `flutter create punto_venta_dolores`
-2. Copia ENCIMA `lib/`, `test/`, `pubspec.yaml` y `analysis_options.yaml` de este zip.
-3. Borra `test/widget_test.dart`.
-4. `flutter pub get`
-5. `flutter test`  → 17 pruebas en verde (11 de dominio + 6 de datos).
-6. `flutter run`
+## 
+<img width="738" height="1600" alt="WhatsApp Image 2026-11-13 at 5 16 58 PM" src="https://github.com/user-attachments/assets/f9a19179-050f-4dba-b5e5-70f87cffaf5e" />
